@@ -3,6 +3,7 @@
 
  Hey! Nice to see you.
  Welcome to my page!
+ <hr>
 I'm Leonardo, Junior-Fullstack developer from  Rome, Italy, currently living in  Rome.
 Things I code with
 -git hub
