@@ -3,9 +3,17 @@
 
  Hey! Nice to see you.
  Welcome to my page!
-I'm Leonardo, Fullstack developer from  Rome, Italy, currently living in  Rome.
+I'm Leonardo, Junior-Fullstack developer from  Rome, Italy, currently living in  Rome.
 Things I code with
- git hub HTML5 CSS3 JavaScript PHP Laravel MySQL
+-git hub
+-HTML5
+-CSS3
+-JavaScript
+-PHP
+-Laravel11
+-MySQL
+-
+  
 
 <!--
 **LeonardoDiNapoli97/LeonardoDiNapoli97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
