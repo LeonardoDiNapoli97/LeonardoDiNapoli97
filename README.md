@@ -18,7 +18,8 @@ Things I code with:
 </p>
 <hr>
 
-[attestato junior full-stack developer.pdf](https://github.com/LeonardoDiNapoli97/LeonardoDiNapoli97/files/15466918/attestato.junior.full-stack.developer.pdf)
+![image](https://github.com/LeonardoDiNapoli97/LeonardoDiNapoli97/assets/161627187/1910c0ab-f890-4170-8ba7-01b060e506c0)
+
 
 
   
