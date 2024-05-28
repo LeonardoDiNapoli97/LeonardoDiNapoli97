@@ -7,13 +7,13 @@
 I'm Leonardo, Junior-Fullstack developer from  Rome, Italy, currently living in  Rome.
 Things I code with:
 <p>
- -git hub
--HTML5
--CSS3
--JavaScript
--PHP
--Laravel11
--MySQL
+ git hub
+/HTML5
+/CSS3
+/JavaScript
+/PHP
+/Laravel11
+/MySQL
 
 </p>
 
