@@ -1,3 +1,6 @@
+
+ ![Uploading sfondo dev.jpeg…]()
+
  Hey! Nice to see you.
 
 <!--
