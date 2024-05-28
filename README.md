@@ -16,6 +16,10 @@ Things I code with:
 /MySQL
 
 </p>
+<hr>
+
+[attestato junior full-stack developer.pdf](https://github.com/LeonardoDiNapoli97/LeonardoDiNapoli97/files/15466918/attestato.junior.full-stack.developer.pdf)
+
 
   
 
