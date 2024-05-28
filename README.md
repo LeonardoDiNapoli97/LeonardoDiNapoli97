@@ -1,5 +1,5 @@
 
- ![Uploading sfondo dev.jpeg…]()
+![sfondo dev](https://github.com/LeonardoDiNapoli97/LeonardoDiNapoli97/assets/161627187/153c9218-cada-4818-8793-51b48b65c08f)
 
  Hey! Nice to see you.
 
